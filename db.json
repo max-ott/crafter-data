@@ -1,0 +1,56 @@
+{
+    "server": "heartstriker-alliance",
+    "itemId": 13444,
+    "name": "Major Mana Potion",
+    "uniqueName": "major-mana-potion",
+    "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_potion_76.jpg",
+    "tags": [
+        "Common",
+        "Consumable"
+    ],
+    "requiredLevel": 49,
+    "itemLevel": 59,
+    "sellPrice": 1500,
+    "vendorPrice": null,
+    "tooltip": [
+        {
+            "label": "Major Mana Potion",
+            "format": "Common"
+        },
+        {
+            "label": "Item Level 59",
+            "format": "Misc"
+        },
+        {
+            "label": "Requires Level 49"
+        },
+        {
+            "label": "Use: Restores 1350 to 2250 mana. (2 Min Cooldown)",
+            "format": "Uncommon"
+        },
+        {
+            "label": "Max Stack: 5"
+        },
+        {
+            "label": "Sell Price:"
+        }
+    ],
+    "itemLink": "|cffffffff|Hitem:13444::::::::::0|h[Major Mana Potion]|h|r",
+    "stats": {
+        "lastUpdated": "2020-04-09T15:19:52.000Z",
+        "current": {
+            "marketValue": 34119,
+            "historicalValue": 25000,
+            "minBuyout": 34787,
+            "numAuctions": 93,
+            "quantity": 333
+        },
+        "previous": {
+            "marketValue": 33836,
+            "historicalValue": 24981,
+            "minBuyout": 33600,
+            "numAuctions": 87,
+            "quantity": 289
+        }
+    }
+}
